@@ -1,6 +1,6 @@
 # README
 
-### herokuへのデプロイ手順
+### herokuでのmysql初期設定手順
 
 ```
 heroku addons:add cleardb
